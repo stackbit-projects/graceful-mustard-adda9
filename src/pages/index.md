@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: SDL Digital Fundraising Service
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      SDL will provid the perfect digital fundraising service for NPOs,  who
+      need a modern way to increase donation. 
     actions:
       - label: Learn More
         url: /features
